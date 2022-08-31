@@ -1,5 +1,6 @@
 Hello 
-feel free calling me \* Annette\**
+feel free calling me 
+\* Annette\**
 Front-end and full stack web developer to be , 
 I like what I do. I would say that the web is a passion for me.
 

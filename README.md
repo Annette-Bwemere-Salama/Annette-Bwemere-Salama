@@ -1,6 +1,6 @@
 Hello 
 feel free calling me 
-\* Annette\**
+# Annette#
 Front-end and full stack web developer to be , 
 I like what I do. I would say that the web is a passion for me.
 
@@ -13,11 +13,11 @@ Apart from code there is a family life of course:
 ,...
 
 Above all, feel comfortable asking me questions about
-HTML and CSS
-JAVASCRIPT
-REACT
-WORDPRESS
-GITHUB,....
+# HTML and CSS 
+# JAVASCRIPT#
+# REACT#
+# WORDPRESS#
+# GITHUB,....#
 
 But also for the contribution of openSource projects I am available.
 

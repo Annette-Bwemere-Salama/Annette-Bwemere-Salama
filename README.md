@@ -13,13 +13,13 @@ Apart from code there is a family life of course:
 ,...
 
 Above all, feel comfortable asking me questions about
-# HTML and CSS 
-# JAVASCRIPT#
-# REACT#
-# WORDPRESS#
-# GITHUB,....#
+#### HTML and CSS 
+##### JAVASCRIPT
+##### REACT
+##### WORDPRESS
+##### GITHUB,....
 
 But also for the contribution of openSource projects I am available.
 
 
-[^1]:(c)copyrigth 2022@Annette-Bwemere-Salama
+[^1]:´´´(c)copyrigth 2022@Annette-Bwemere-Salama´´´

@@ -1,6 +1,8 @@
 # Hello 👋
 
-![Anny Salma](https://readme-typing-svg.herokuapp.com?font=Sofiasans-serif&color=001D6E&size=30&weight=bold&lines=feel+free+calling+me+Annette;Bwemere)
+### feel free calling me
+
+![Anny Salma](https://readme-typing-svg.herokuapp.com?font=Sofiasans-serif&color=001D6E&size=30&weight=bold&lines=Annette;Bwemere)
 
 <table cellspacing="0" cellpadding="0">
           <tbody>
@@ -26,7 +28,6 @@ Apart from code there is a family life of course:
   ,...
 
 Above all, feel comfortable asking me questions about
-
 
 <h2 align="left">🛠 Languages, Tech Stack
  and Tools:</h2>
@@ -302,7 +303,6 @@ Above all, feel comfortable asking me questions about
     src="https://github-readme-streak-stats.herokuapp.com/?user=Annette&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
-
 
 <h3 align="center"> 🤝🏻 Hangout with Me </h3>
 

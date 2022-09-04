@@ -14,7 +14,7 @@ The best way to reach me just send me an email to this address:
 <li>📫 bwemereannette@gmail.com</li></br>
 </td>
 <td align="center">
-<img src="./images/Avatar-Maker(1).svg" width="60%" style="border-radius:50%;">
+<img src="./images/avatar.png" width="60%" style="border-radius:50%;">
 </td>
             </tr>
             </tbody>

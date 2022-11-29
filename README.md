@@ -2,7 +2,8 @@
 
 ### feel free calling me
 
-![Anny Salma](https://readme-typing-svg.herokuapp.com?font=Sofiasans-serif&color=001D6E&size=30&weight=bold&lines=AnnetteBwemere;Annette)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=timenewreman&weight=900&duration=2500&pause=1000&color=1E1DF7&background=8672FF00&width=435&lines=Annette;Bwemere;Annette+Bwemere)](https://git.io/typing-svg)
+>>>>>>> 245fdbda55fef743da565dcbbc3d1f5cbbe400d0
 
 <table cellspacing="0" cellpadding="0">
           <tbody>
@@ -14,7 +15,7 @@ The best way to reach me just send me an email to this address:
 <li>📫 bwemereannette@gmail.com</li></br>
 </td>
 <td align="center">
-<img src="./images/avatar.png" width="60%" style="border-radius:50%;">
+<img src="./images/pfl.png" width="60%" style="border-radius:50%;">
 </td>
             </tr>
             </tbody>
@@ -78,12 +79,6 @@ Above all, feel comfortable asking me questions about
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
     </td>
       <td align="center" width="96">
       <a href="#laravel">
@@ -230,11 +225,11 @@ Above all, feel comfortable asking me questions about
   </thead>
   <tbody align="center">
     <tr>
-      <td><a href="https://github.com/Annette/Quiz-App-GDA"><b>Quiz App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Annette/Quiz-App-GDA?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Annette/Quiz-App-GDA?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Annette/Quiz-App-GDA?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Annette/Carousel-plugin?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Annette-Bwemere-Salama/Quiz-App-GDA"><b>Quiz App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Annette-Bwemere-Salama/Quiz-App-GDA?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Annette-Bwemere-Salamate/Quiz-App-GDA?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Annette-Bwemere-Salama/Quiz-App-GDA?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Annette-Bwemere-Salama/Carousel-plugin?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Annette-Bwemere-Salama/annetteTimerCOMODORO"><b>Comodoro Timer</b></a></td>
@@ -280,12 +275,12 @@ Above all, feel comfortable asking me questions about
     align="left"
     width="51%"
     alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Annette&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Annette-Bwemere-Salama&show_icons=true&theme=radical"
   />
   <img
     width="45%"
     alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annette&show_icons=true&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annette-Bwemere-Salama&show_icons=true&theme=radical&layout=compact"
   />
 </p>
 
@@ -294,7 +289,7 @@ Above all, feel comfortable asking me questions about
     width="50%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=Annette&theme=radical&no-frame=true&column=3&row=2"
+    src="https://github-profile-trophy.vercel.app/?username=Annette-Bwemere-Salama&theme=radical&no-frame=true&column=3&row=2"
   />
   <img
     width="47%"

@@ -93,25 +93,6 @@ Above all, feel comfortable asking me questions about
       <br>TypeScript
     </td>
   </tr>
-  <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Vercel_logo_2020.svg.png" width="48" height="48" alt="Versel" />
-      </a>
-      <br>Versel
-    </td>
-  </tr><td align="center" width="96">
-      <a href="#Versel">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Netlify_logo_2020.svg/1200px-Netlify_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Netlify
-    </td>
-  </tr><td align="center" width="96">
-      <a href="#Netlify">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vite_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Vite
-    </td>
-  </tr>
    <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >

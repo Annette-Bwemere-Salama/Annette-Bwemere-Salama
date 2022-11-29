@@ -2,7 +2,7 @@
 
 ### feel free calling me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E1DF7&width=435&lines=Annette+Bwemere)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=timenewreman&weight=900&duration=2500&pause=1000&color=1E1DF7&background=8672FF00&width=435&lines=Annette;Bwemere;Annette+Bwemere)](https://git.io/typing-svg)
 
 <table cellspacing="0" cellpadding="0">
           <tbody>
@@ -78,12 +78,6 @@ Above all, feel comfortable asking me questions about
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
     </td>
       <td align="center" width="96">
       <a href="#laravel">
@@ -280,12 +274,12 @@ Above all, feel comfortable asking me questions about
     align="left"
     width="51%"
     alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Annette&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Annette-Bwemere-Salama&show_icons=true&theme=radical"
   />
   <img
     width="45%"
     alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annette&show_icons=true&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annette-Bwemere-Salama&show_icons=true&theme=radical&layout=compact"
   />
 </p>
 
@@ -294,7 +288,7 @@ Above all, feel comfortable asking me questions about
     width="50%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=Annette&theme=radical&no-frame=true&column=3&row=2"
+    src="https://github-profile-trophy.vercel.app/?username=Annette-Bwemere-Salama&theme=radical&no-frame=true&column=3&row=2"
   />
   <img
     width="47%"

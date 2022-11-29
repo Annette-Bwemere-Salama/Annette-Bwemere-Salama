@@ -204,7 +204,7 @@ Above all, feel comfortable asking me questions about
 </table>
 
 <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Annette&show_icons=true&locale=en" alt="Bwemere" width="250" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Annette-Bwemere-Salama&show_icons=true&locale=en" alt="Bwemere" width="250" />
 </p>
 
 [![Annette_Bwemere github activity graph](https://activity-graph.herokuapp.com/graph?username=Annette&bg_color=0D1117&color=3D3C42&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/Annette_Bwemere/github-readme-activity-graph)

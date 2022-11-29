@@ -295,7 +295,7 @@ Above all, feel comfortable asking me questions about
     width="47%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Annette&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Annette-Bwemere-Salama&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
 
@@ -313,8 +313,8 @@ Above all, feel comfortable asking me questions about
 <h2 align="center">🛠 Stars:</h2>
 
 <p align="left" width="100%" >
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Annette&show_icons=true&count_private=true" alt="Annette" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Annette" alt="Annette" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Annette-Bwemere-Salama&show_icons=true&count_private=true" alt="Annette" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Annette-Bwemere-Salama" alt="Annette" />
 </p>
 
 But also for the contribution of openSource projects I am available.

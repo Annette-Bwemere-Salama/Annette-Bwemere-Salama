@@ -2,7 +2,7 @@
 
 ### feel free calling me
 
-![Anny Salma](https://readme-typing-svg.herokuapp.com?font=Sofiasans-serif&color=001D6E&size=30&weight=bold&lines=Annette;Bwemere)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E1DF7&width=435&lines=Annette+Bwemere)](https://git.io/typing-svg)
 
 <table cellspacing="0" cellpadding="0">
           <tbody>

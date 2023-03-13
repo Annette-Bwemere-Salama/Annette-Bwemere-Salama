@@ -72,27 +72,6 @@ Above all, feel comfortable asking me questions about
       <br>Nuxt JS
     </td>
   </tr>
-
-  <tr>
-     <td align="center" width="96">
-      <a href="#nuxtjs" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>MySQL
-    </td>
-     <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-  </tr>
    <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >
@@ -231,13 +210,6 @@ Above all, feel comfortable asking me questions about
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Annette/dashbord-intergration?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Annette/dashbord-intergration?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <!-- <tr>
-      <td><a href="https://github.com/Annette/landingpage-designers-agency"><b>landingpage-designers-agency</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Annette/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Annette/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Annette/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Annette/landingpage-designers-agency?style=flat-square&labelColor=343b41"/></td>
-    </tr> -->
   </tbody>
 </table>
 
@@ -305,4 +277,4 @@ Above all, feel comfortable asking me questions about
 
 But also for the contribution of openSource projects I am available.
 
-<h6>(c)copyrigth 2022@Annette-Bwemere-Salama</h6>
+<h6>(c)copyrigth 2023@Annette-Bwemere-Salama</h6>

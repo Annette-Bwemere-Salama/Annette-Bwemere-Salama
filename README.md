@@ -2,14 +2,14 @@
 
 ### feel free calling me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=timenewreman&weight=900&duration=2500&pause=1000&color=1E1DF7&background=8672FF00&width=435&lines=Annette+Bwemere;Full-Stack+Developper+From+Goma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=timenewreman&weight=900&duration=2500&pause=1000&color=1E1DF7&background=8672FF00&width=435&lines=Annette+Bwemere;Front-End+Developper+From+Goma)](https://git.io/typing-svg)
 
 
 <table cellspacing="0" cellpadding="0">
           <tbody>
             <tr border:none;>
                 <td>
-Front-end and full stack web developer to be ,</br>
+Front-end  developer to be ,</br>
 I like what I do. I would say that the web is a passion for me.</br>
 The best way to reach me just send me an email to this address:
 <li>📫 bwemereannette@gmail.com</li></br>

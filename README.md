@@ -1,21 +1,13 @@
 # Hello 👋
 
-### Feel free to call me
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=timenewreman&weight=900&duration=2500&pause=1000&color=1E1DF7&background=8672FF00&width=435&lines=Annette+Bwemere;Front-End+Developer+From+Goma)](https://git.io/typing-svg)
-
----
-
-## About Me
-
-Passionate about learning Python. Currently a junior developer at Virunga Foundation.
-- 📫 bwemereannette@gmail.com
-
----
-
 <table cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
+      <td align="center">
+        Passionate about learning Python. Currently a junior developer at Virunga Foundation.
+        <br>
+        📫 bwemereannette@gmail.com
+      </td>
       <td align="center">
         <img src="./images/pfl.png" width="60%" style="border-radius:50%;">
       </td>
@@ -46,7 +38,7 @@ Passionate about learning Python. Currently a junior developer at Virunga Founda
 
 <p align="center">
   <a href="https://github.com/Annette-Bwemere-Salama/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Annette-Bwemere-Salama&bg_color=0D1117&color=3D3C42&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Annette_Bwemere activity graph" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Annette-Bwemere-Salama&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Annette_Bwemere activity graph" />
   </a>
 </p>
 
@@ -99,4 +91,4 @@ Passionate about learning Python. Currently a junior developer at Virunga Founda
 
 ---
 
-<h6 align="center">(c) Copyright 2024 @Annette-Bwemere-Salama</h6>
+<h6 align="center">&copy; Copyright 2023 - {{ date | date: "%Y" }} @Annette-Bwemere-Salama</h6>

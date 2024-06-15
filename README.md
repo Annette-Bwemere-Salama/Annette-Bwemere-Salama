@@ -88,10 +88,10 @@
 ## 🛠 Stars:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Annette-Bwemere-Salama&show_icons=true&count_private=true" width="48%" alt="Annette's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annette-Bwemere-Salama" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Annette-Bwemere-Salama&show_icons=true&count_private=true&theme=radical" width="48%" alt="Annette's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annette-Bwemere-Salama&theme=radical" width="48%" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-<h6 align="center">&copy; Copyright 2023 - {{ date | date: "%Y" }} @Annette-Bwemere-Salama</h6>
+<h6 align="center">&copy; Copyright 2023 - {{ 'now' | date: '%Y' }} @Annette-Bwemere-Salama</h6>

@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/Annette-Bwemere-Salama/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Annette-Bwemere-Salama&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Annette_Bwemere activity graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annette-Bwemere-Salama&theme=gotham" alt="Annette_Bwemere activity graph" />
   </a>
 </p>
 

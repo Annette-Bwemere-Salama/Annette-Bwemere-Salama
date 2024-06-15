@@ -1,4 +1,7 @@
 # Hello 👋
+### Call me
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=timenewreman&weight=900&duration=2500&pause=1000&color=1E1DF7&background=8672FF00&width=435&lines=Annette+Bwemere;Front-End+Developer+From+Goma)](https://git.io/typing-svg)
 
 <table cellspacing="0" cellpadding="0">
   <tbody>

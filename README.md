@@ -7,12 +7,12 @@
   <tbody>
     <tr>
       <td align="center">
-        Passionate about learning *Python* at FreecodeCamps.
+        Passionate about learning PYTHON at FreecodeCamps.
         <br>
         📫 bwemereannette@gmail.com
       </td>
       <td align="center">
-        <img src="./images/pfl.png" width="60%" style="border-radius:50%;">
+        <img src="./images/pfl.png" width="75%" style="border-radius:50%;">
       </td>
     </tr>
   </tbody>

@@ -36,18 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annette-Bwemere-Salama&show_icons=true&theme=radical&layout=compact" width="45%" alt="Top langs" />
 </p>
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Annette-Bwemere-Salama/github-readme-activity-graph">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annette-Bwemere-Salama&theme=gotham" alt="Annette_Bwemere activity graph" />
-  </a>
-</p>
-
----
-
 ## 🤝❤ Views and Followers :eyes:
 
 <p align="center">
@@ -83,16 +71,4 @@
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Annette-lime?style=flat-square&logo=WhatsApp">
   </a>
 </p>
-
----
-
-## 🛠 Stars:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Annette-Bwemere-Salama&show_icons=true&count_private=true&theme=radical" width="48%" alt="Annette's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annette-Bwemere-Salama&theme=radical" width="48%" alt="GitHub Streak Stats" />
-</p>
-
----
-
 <h6 align="center">&copy; Copyright 2023 - {{ 'now' | date: '%Y' }} @Annette-Bwemere-Salama</h6>

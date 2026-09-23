@@ -7,7 +7,7 @@
   <tbody>
     <tr>
       <td align="center">
-        Passionate about learning **Python**. Currently a junior developer at **Virunga Foundation**.
+        Passionate about learning *Python* at FreecodeCamps.
         <br>
         📫 bwemereannette@gmail.com
       </td>
